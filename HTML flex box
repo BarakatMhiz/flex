@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+		<head>
+					<meta charset="utf-8">
+					<meta equiv="X-UA-compatible" content="IE=edge">
+					<meta name="viewport" content="width=device-width, initial-scale=1.0">
+					<title >flex box</title>
+				<link rel="stylesheet" href="style.css">
+		</head>
+		<body>
+						<main>
+										<div class="flex box" >
+										<div class="first-side">
+				<img src="favicon-32×32.jpg" width="100px">
+							<h2>SEDANS</h2>	
+			<p>choose a sedan for it's affordability and excellent fuel economy. ideal for cruising in the city or on your next road trip.</p>		
+			<button class=" but but1">learn more</button>		
+														</div>
+							<div class="flex box">
+						<div class="second-side">
+					<img src="favicon-32×32.png" width="100px">
+									<h2>SUVS</h2>
+				<p>take an suv for its spacious interior, power and versatility.perfect for your next family vacation and off road adventures.</p>
+				<button class="but but2">learn more</button>
+		</div>
+				</div>
+				<div class="flex box">
+					<div class="third-side">
+						<img src="favicon-32×32.png" width="100px">
+									<h2>Luxury</h2>
+						<p>Cruise in the best car brands without  the bloated enjoy the enhanced comfort of a luxury rentals and arrive in style</p>
+						<button class=" but but3">learn more</button>
+					</div>
+					</div>
+										</div>
+						</main>
+		</body>
